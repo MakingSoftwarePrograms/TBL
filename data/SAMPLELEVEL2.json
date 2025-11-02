@@ -1,12 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "Free To Copy",
+    "id": 120874182,
+    "name": "2 FPJ",
+    "author": "Lexen2K",
+    "creators": ["Lexen2K"],
+    "verifier": "Elias",
+    "verification": "https://youtu.be/Q69uyNvSF_c",
+    "percentToQualify": 100,
+    "fps": "CBF",
     "records": [
+        {
+            "user": "Elias",
+            "link": "https://youtu.be/Q69uyNvSF_c",
+            "percent": 100,
+            "hz": CBF
+        }
     ]
 }
