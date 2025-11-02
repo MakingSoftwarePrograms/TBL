@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "vid",
-    "percentToQualify": 56,
-    "fps"
+    "id": 127595316,
+    "name": "very epileptic epi",
+    "author": "Elias",
+    "creators": ["Elias"],
+    "verifier": "Elias",
+    "verification": "https://youtu.be/7gEUCzxjhmo",
+    "percentToQualify": 100,
+    "fps": "FPS: Any"
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
+            "user": "No Records",
+            "link": "",
+            "percent": ,
+            "hz": 
         }
     ]
 }
