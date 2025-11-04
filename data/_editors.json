@@ -3,30 +3,4 @@
         "role": "owner",
         "name": "Elias",
         "link": ""
-    },
-    {
-        "role": "owner",
-        "name": "Lexen2k",
-        "link": ""
-    },
-    {   
-        "role": "admin",
-        "name": "Eneko",
-        "link": ""
-    },
-    {
-        "role": "helper",
-        "name": "i3_corbeaux",
-        "link": ""
-    },
-    {
-        "role": "trial",
-        "name": "neromi",
-        "link": ""
-    },
-    {
-        "role": "dev",
-        "name": "Elias",
-        "link": ""
-    }
 ]
